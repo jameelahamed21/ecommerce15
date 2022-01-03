@@ -2990,7 +2990,7 @@ input#amount1 {
 }
 
 .shop .product .product_sectoin {
-  padding-top: 70px;
+  padding-top: 0px;
 }
 
 @media screen and (max-width: 991px) {
