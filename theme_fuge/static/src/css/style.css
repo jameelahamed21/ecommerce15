@@ -746,7 +746,7 @@ template {
 }
 
 .footer .footer_right .footer_right_bottom {
-  margin-top: 40px;
+  margin-top: 0px;
   padding-top: 20px;
 }
 
@@ -4030,5 +4030,10 @@ input#amount1 {
     background-color: #6c757d !important;
     border-color: #6c757d !important;
     color: #fff;
+}
+
+.footer_logo img
+{
+    width: 50%
 }
 /*# sourceMappingURL=style.css.map */
