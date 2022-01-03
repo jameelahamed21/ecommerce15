@@ -10,10 +10,10 @@
                         <h1 style="color:#fff; font-weight:bold;">Contact us</h1>
                         <ol class="breadcrumb mb-0">
                             <li>
-                                <a style="color:#fff" href="/">Home</a>
-                                <span style="color:#fff" class="fa fa-angle-double-right"/>
+                                <a style="color:#000" href="/">Home</a>
+                                <span style="color:#000" class="fa fa-angle-double-right"/>
                             </li>
-                            <li style="color:#fff" class="active">Contact</li>
+                            <li style="color:#000" class="active">Contact</li>
                         </ol>
                     </div>
                 </section>

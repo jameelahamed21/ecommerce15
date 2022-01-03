@@ -5,13 +5,13 @@
         <xpath expr="//div[@id='o_wblog_blog_top']" position="replace">
             <section class="banner_about" style="margin-top:-50px; margin-bottom: 25px;">
                 <div class="banner-heading text-center">
-                    <h1 style="color:#fff; font-weight:bold;">Blog</h1>
+                    <h1 style="color:#000; font-weight:bold;">Blog</h1>
                     <ol class="breadcrumb mb-0">
                         <li>
-                            <a style="color:#fff" href="/">Home</a>
-                            <span style="color:#fff" class="fa fa-angle-double-right"/>
+                            <a style="color:#000" href="/">Home</a>
+                            <span style="color:#000" class="fa fa-angle-double-right"/>
                         </li>
-                        <li style="color:#fff" class="active">Blog</li>
+                        <li style="color:#000" class="active">Blog</li>
                     </ol>
                 </div>
             </section>
