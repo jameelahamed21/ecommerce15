@@ -674,8 +674,8 @@ template {
 
 .footer {
   background-color: #232020;
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 25px;
 }
 
 .footer .footer_top {
@@ -2542,12 +2542,9 @@ input#amount1 {
 }
 
 .banner_about {
-  background-image: linear-gradient(rgba(17, 17, 17, 0.44), rgba(17, 17, 17, 0.24)), url(./../images/about-banner/bg1.jpg);
   height: 50vh;
-  background-size: cover;
   width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
+  background-color: #b0dbf081;
   padding-bottom: 200px;
 }
 
@@ -2612,7 +2609,6 @@ input#amount1 {
 
 .banner_about .banner-heading h1 {
   font-size: 42px;
-  padding-top: 50px;
   font-weight: 700;
   margin-bottom: 0;
 }

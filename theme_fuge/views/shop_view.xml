@@ -4,13 +4,13 @@
         <xpath expr="//div[hasclass('container')]" position="before">
             <section class="banner_about" style="margin-top:-50px;">
                 <div class="banner-heading text-center">
-                    <h1 style="color:#fff; font-weight:bold;">Shop</h1>
+                    <h1 style="color:#000; font-weight:bold;">Shop</h1>
                     <ol class="breadcrumb mb-0">
                         <li>
-                            <a style="color:#fff" href="/">Home</a>
-                            <span style="color:#fff" class="fa fa-angle-double-right"/>
+                            <a style="color:#000" href="/">Home</a>
+                            <span style="color:#000" class="fa fa-angle-double-right"/>
                         </li>
-                        <li style="color:#fff; font-weight:bold;" href="/shop">Shop</li>
+                        <li style="color:#000; font-weight:bold;" href="/shop">Shop</li>
                     </ol>
                 </div>
             </section>
@@ -230,13 +230,13 @@
                position="replace">
             <section class="banner_about" style="margin-top:-50px;">
                 <div class="banner-heading text-center">
-                    <h1 style="color:#fff; font-weight:bold;">Cart</h1>
+                    <h1 style="color:#000; font-weight:bold;">Cart</h1>
                     <ol class="breadcrumb mb-0">
                         <li>
-                            <a style="color:#fff" href="/">Home</a>
-                            <span style="color:#fff" class="fa fa-angle-double-right"/>
+                            <a style="color:#000" href="/">Home</a>
+                            <span style="color:#000" class="fa fa-angle-double-right"/>
                         </li>
-                        <li style="color:#fff" class="active">Cart</li>
+                        <li style="color:#000" class="active">Cart</li>
                     </ol>
                 </div>
             </section>
@@ -321,13 +321,13 @@
         <xpath expr="//div[@id='wrap']" position="replace">
             <section class="banner_about" style="margin-top:-50px;">
                 <div class="banner-heading text-center">
-                    <h1 style="color:#fff; font-weight:bold;">Checkout</h1>
+                    <h1 style="color:#000; font-weight:bold;">Checkout</h1>
                     <ol class="breadcrumb mb-0">
                         <li>
-                            <a style="color:#fff" href="/">Home</a>
-                            <span style="color:#fff" class="fa fa-angle-double-right"/>
+                            <a style="color:#000" href="/">Home</a>
+                            <span style="color:#000" class="fa fa-angle-double-right"/>
                         </li>
-                        <li style="color:#fff" class="active">Checkout</li>
+                        <li style="color:#000" class="active">Checkout</li>
                     </ol>
                 </div>
             </section>
@@ -400,13 +400,13 @@
         <xpath expr="//div[@id='wrap']" position="replace">
             <section class="banner_about" style="margin-top:-50px;">
                 <div class="banner-heading text-center">
-                    <h1 style="color:#fff; font-weight:bold;">Confirmation</h1>
+                    <h1 style="color:#000; font-weight:bold;">Confirmation</h1>
                     <ol class="breadcrumb mb-0">
                         <li>
-                            <a style="color:#fff" href="/">Home</a>
-                            <span style="color:#fff" class="fa fa-angle-double-right"/>
+                            <a style="color:#000" href="/">Home</a>
+                            <span style="color:#000" class="fa fa-angle-double-right"/>
                         </li>
-                        <li style="color:#fff" class="active">Confirmation</li>
+                        <li style="color:#000" class="active">Confirmation</li>
                     </ol>
                 </div>
             </section>
