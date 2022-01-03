@@ -2631,7 +2631,7 @@ input#amount1 {
 .about_detail .card {
   background: transparent;
   border: none;
-  padding-top: 40px;
+  padding-top: 0px;
 }
 
 .about_detail .card .card-body {
@@ -2660,13 +2660,13 @@ input#amount1 {
 }
 
 .what-we-offer {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #f4f4f4;
 }
 
 .what-we-offer .what_wrapper {
-  margin-top: 20px;
+  margin-top: 0px;
   margin-bottom: 20px;
 }
 

@@ -26,8 +26,8 @@
                             <!-- about details section starts here -->
     <Section class="about_detail">
         <div class="container">
-            <div class="row pb-5">
-                <div class="col-12 col-md-6  pt-5">
+            <div class="row">
+                <div class="col-12 col-md-12  pt-5">
                     <div class="card ">
                         <div class="card-body">
                             <h2 class="card-title">About Our <span>FugeStore</span>
@@ -44,11 +44,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-12  col-md-6  pt-5">
-                    <div class="men_img">
-                        <img class="img-fluid" src="theme_fuge/static/src/images/men-woemn-offer/2.jpg"/>
-                    </div>
-                </div>
             </div>
         </div>
     </Section>
@@ -59,12 +54,7 @@
         <div class="container">
             <div class="what_wrapper">
                 <div class="row">
-                    <div class="col-12  col-lg-5 col-md-12 col-sm-12">
-                        <div class="offer_wrapper1">
-                            <img class="" src="theme_fuge/static/src/images/what-we-offer/left2.jpg"/>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-7 col-md-12 col-sm-12">
+                    <div class="col-12 col-md-12 col-sm-12">
                         <div class="offer_content">
                             <div class="offer_content_top">
                                 <h4 class="card-title">WHAT WE <span>OFFER</span></h4>
