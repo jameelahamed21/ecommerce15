@@ -27,7 +27,7 @@
     <Section class="about_detail">
         <div class="container">
             <div class="row">
-                <div class="col-12 col-md-12  pt-5">
+                <div class="col-12 col-md-12">
                     <div class="card ">
                         <div class="card-body">
                             <h2 class="card-title">About Our <span>FugeStore</span>

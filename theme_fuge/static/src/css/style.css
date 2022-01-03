@@ -2722,8 +2722,8 @@ input#amount1 {
 }
 
 .offering {
-  padding-top: 50px;
-  padding-bottom: 100px;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .offering h1 {
@@ -3595,14 +3595,10 @@ input#amount1 {
 }
 
 .contact_form {
-  padding-top: 100px;
+  padding-top: 0px;
   padding-bottom: 100px;
-  background-image: linear-gradient(rgba(17, 17, 17, 0.44), rgba(17, 17, 17, 0.64)), url(./../images/snippets/banner/banner4.jpg);
   background-size: cover;
   width: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
   color: white;
 }
 
