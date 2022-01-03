@@ -3605,7 +3605,7 @@ input#amount1 {
 .contact_form .c_form h2 {
   font-weight: 700;
   font-size: 40px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
 }
 
 .contact_form .c_form .form-control {

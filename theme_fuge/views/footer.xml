@@ -156,15 +156,14 @@
                                 <div class="col-6 f_b_r">
                                     <div class="bottom_right">
                                         © 2020 FugeStore. All rights reserved.
-                                        Design by
-                                        <a href="#">Cybrosys</a>
-
                                     </div>
+<!--
                                     <t id="language_selector_call"
                                        t-call="portal.language_selector">
                                         <t t-set="_div_classes"
                                            t-value="(_div_classes or '') + ' dropup'"/>
                                     </t>
+-->
 
                                 </div>
                             </div>
